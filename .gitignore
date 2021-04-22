@@ -5,6 +5,7 @@ result-*
 checkpoints-*
 checkpoints/
 pretrained/
+pretrained_model/
 .idea/
 datasets/
 scripts/checkpoints*
